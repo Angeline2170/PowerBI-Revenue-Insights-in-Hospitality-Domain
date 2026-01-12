@@ -19,5 +19,5 @@ This is my first comprehensive Power BI project. I transformed raw business data
 
 
 ##  How to View
-1. **Quick View:** Open the `Project_Report.pdf` in this repo to see the static dashboard.
+1. **Quick View:** Open the `powerbi_project.pdf` in this repo to see the static dashboard.
 2. **Full Interactive Version:** Download the `.pbix` file and open it in [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
